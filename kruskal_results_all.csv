@@ -1,0 +1,9 @@
+channel,H,p_value,p_bonferroni,significant
+channel1,7230.9,0.0,0.0,True
+channel2,5610.8,0.0,0.0,True
+channel3,6235.7,0.0,0.0,True
+channel4,8611.5,0.0,0.0,True
+channel5,7784.0,0.0,0.0,True
+channel6,6969.6,0.0,0.0,True
+channel7,8478.8,0.0,0.0,True
+channel8,8774.9,0.0,0.0,True
